@@ -16,6 +16,6 @@
 
 
 
-<small align="center">
+<p align="center">
   © 2024 Marvee. Todos os direitos reservados.
-</small>
+</p>
