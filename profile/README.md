@@ -14,8 +14,8 @@
   <a href="https://www.youtube.com/@marvee.oficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
----
 
-<p align="center">
+
+<small align="center">
   © 2024 Marvee. Todos os direitos reservados.
-</p>
+</small>
