@@ -14,14 +14,6 @@
   <a href="https://www.youtube.com/@marvee.oficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-A Marvee é uma solução all-in-one que integra terceirização financeira (BPO Financeiro), contabilidade digital e tecnologia, desenvolvida para apoiar donos de pequenas empresas de serviços. Nascemos da necessidade de profissionalizar a gestão financeira de micro e pequenas empresas, permitindo que empreendedores foquem no crescimento do seu negócio enquanto cuidamos das rotinas financeiras e contábeis.
-
-Para mais informações sobre como a Marvee pode ajudar sua empresa, entre em contato pelo nosso site:
-
-- 🌐 **Formulário no site**: [https://marvee.com.br/contato](https://marvee.com.br/)
-
----
-
 <p align="center">
   © 2024 Marvee. Todos os direitos reservados.
 </p>
