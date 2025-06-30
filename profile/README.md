@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scontent.fbnu9-1.fna.fbcdn.net/v/t39.30808-6/472742313_1151706076503081_5803420543167063988_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=aAX-fE_RUOIQ7kNvwGGazu6&_nc_oc=Adki1s2h08xp7Gd61G1NtCjH7NSq1i4l7_0_8DmILK0jxfWTtQ8F_isOwPE4BXNnOaQ&_nc_zt=23&_nc_ht=scontent.fbnu9-1.fna&_nc_gid=zcmcFmZekYIwnbaqnsqpHA&oh=00_AfJ-mJcQUjpJ1atPuDWzModW7ruQtWnBk41CPT7APcJcqA&oe=683E6E8F" alt="Marvee Logo" width="1450">
+  <img src="https://lp.marvee.com.br/wp-content/uploads/2025/06/472742313_1151706076503081_5803420543167063988_n-1.jpg" alt="Marvee Logo" width="1450">
 </p>
 <h1 align="center">Marvee - Financeiro por Assinatura</h1>
 <p align="center">
